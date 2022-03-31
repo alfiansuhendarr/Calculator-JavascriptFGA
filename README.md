@@ -1,6 +1,6 @@
 # JavaScript Calculator
 Completed On: 28 March 2022  
-Last Updated: 31 March 2017
+Last Updated: 31 March 2022
 
 ## Objectives
 
